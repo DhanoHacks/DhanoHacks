@@ -1,4 +1,4 @@
-# Hi there, I'm Dhananjay Raman (Dhano or DhanoHacks)! 👋
+# Hi there, I'm Dhananjay Raman (Dhano or DhanoHacks)!
 
 ![GitHub followers](https://img.shields.io/github/followers/DhanoHacks?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/DhanoHacks?style=social)
@@ -8,11 +8,10 @@
 
 I am a passionate software developer, tech, and astronomy enthusiast studying in IIT Bombay with a keen interest in open-source projects. I love exploring new technologies and working on innovative solutions that make a difference.
 
-- 🔭 I’m currently working on developing tools for genomics and transcriptomics
-- 🌱 I’m currently learning Java
-- 💬 Ask me about **Python, C++, Java, and Web Development**
-- 📫 How to reach me: **d.raman@iitb.ac.in**
-- ⚡ Fun fact: I love playing games and watching anime.
+- I’m currently working on developing tools for genomics and transcriptomics
+- Ask me about **Python, C++, Java, and Web Development**
+- How to reach me: **d.raman@iitb.ac.in**
+- Fun fact: I love playing games and watching anime.
 
 ## Skills
 
@@ -40,4 +39,4 @@ Feel free to reach out to me via the following platforms:
 
 I'm always open to collaborating on interesting projects. If you have any ideas or suggestions, feel free to open an issue or create a pull request.
 
-Thank you for visiting my profile! Have a great day! 😊
+Thank you for visiting my profile! Have a great day!
